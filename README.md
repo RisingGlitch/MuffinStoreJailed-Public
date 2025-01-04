@@ -10,4 +10,4 @@ I am not responsible for any issues caused by the usage of this tool, it's exper
 
 The app you want to downgrade will need to be uninstalled, however, you can preserve app data by offloading the app first, and then downgrading it.
 
-You should request a 2fa code BEFORE logging in, via the Settings app, however, if the settings app doesn't show the option ( iOS 18+ ), you can leave the code field empty, and then you should get a popup, accept it, and copy the code from there. If it doesn't log you in fully close and re-open the app and try again.
+You should request a 2fa code BEFORE logging in, via the Settings app (Settings > Name > Sign-In & Security > Two-Factor Authentication > Get Verification Code), however, if the settings app doesn't show the option ( iOS 18+ ), you can leave the code field empty, and then you should get a popup, accept it, and copy the code from there. If it doesn't log you in fully close and re-open the app and try again.
